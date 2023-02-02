@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gadatos
 - 👀 I’m interested in FLUTTER 
-- 🌱 I’m currently learning DART & Flutter
+- 🌱 I’m currently learning REACT 
 - 📫 How to reach me gadatos@gmail.com
 
 <!---
