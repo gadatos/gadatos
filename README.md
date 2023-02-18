@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gadatos
-- 👀 I’m interested in FLUTTER 
+- 👀 I’m interested in React 
 - 🌱 I’m currently learning REACT 
 - 📫 How to reach me gadatos@gmail.com
 
